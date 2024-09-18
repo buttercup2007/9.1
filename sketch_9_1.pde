@@ -10,8 +10,8 @@ void draw(){
 }
 
 void getalgm(){
-  int getal1 = 15;
-  int getal2 = 5;
+  int getal1 = 40;
+  int getal2 = 10;
   int antwoord; 
   
   antwoord = (getal1 + getal2)/2; 
